@@ -1,0 +1,10 @@
+[deps]
+AbstractGPs = "99985d1d-32ba-4be9-9821-2ec096f28918"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+KernelFunctions = "ec8451be-7e33-11e9-00cf-bbf324bd1392"
+Libtask = "6f1fad26-d15e-5dc8-ae53-837a1d7b8c9f"
+StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
+Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
